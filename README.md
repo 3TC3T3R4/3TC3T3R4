@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @3TC3T3R4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-3TC3T3R4/3TC3T3R4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#List<Programmer> Me = Programmer.Showinfo(); 
+for(Programemr Myinfo: Me){
+  System.out.println(Myinfo);
+}
+#Console
+  Hi👋, I'm Estevan Tangarife Correa😁💻
+  I am currently studying systems engineering,
+  I'm System technologist, a very disciplined,
+  responsible, dynamic and creative person with the ability to adapt and work in a team,
+  who loves programming and with very good tender skills
+  
