@@ -1,4 +1,4 @@
-### Hi, I'm Estevan Tangarife 👋😁💻<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="40">
+### Hi, I'm Estevan 👋😁💻<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="40">
 
 ---
 
@@ -31,6 +31,8 @@ class Main:
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+<img src="http://img.shields.io/badge/-SqlServer-style=flat&logo=Sql&logoColor=white"> 
+
  <br>
  -----
   
