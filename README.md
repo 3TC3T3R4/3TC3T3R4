@@ -8,7 +8,7 @@ Console
   I´m currently studying systems engineering,
   I'am system technologist, a lot of disciplined,
   responsible, dynamic and creative person, with the ability to adapt, work in a team and
-  loves programming and with very good tender skills.
+  loves programming and with very good soft skills.
   
 class Main:
   List<Programmer> Me = Programmer.Showinfo();
