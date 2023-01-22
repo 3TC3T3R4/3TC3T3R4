@@ -12,7 +12,8 @@ Console
   
 class Main:
   List<Programmer> Me = Programmer.Showinfo();
-  foreach(Programemr Myinfo: Me){<br>
+  foreach(Programemr Myinfo: Me){
+  
   System.out.println(Myinfo);
 }
 
