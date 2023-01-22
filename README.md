@@ -12,7 +12,7 @@ Console
   
 class Main:
   List<Programmer> Me = Programmer.Showinfo();
-  foreach(Programemr Myinfo: Me){
+  foreach(Programmer Myinfo: Me){
   
   System.out.println(Myinfo);
 }
