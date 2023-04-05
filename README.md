@@ -44,7 +44,7 @@ class Main:
  
  :books: I want to learn <img src="https://skills.thijs.gg/icons?i=react,linux,elixir,docker,flutter,go&theme=light" width="200">
  ---
-### You can find in me in the web 🌍
+### You can find me in the web 🌍
 <a href="https://www.linkedin.com/in/estevan-tangarife-correa/">
   <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
