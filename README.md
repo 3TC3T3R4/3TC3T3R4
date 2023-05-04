@@ -3,13 +3,23 @@
 ---
 
 ```Java
-# -*- coding: utf-8 -*-
-Console
-  I´m currently studying systems engineering,
-  I'am system technologist, a lot of disciplined,
-  responsible, dynamic and creative person, with the ability to adapt, work in a team and
-  loves programming and with very good soft skills.
-  
+
+CONSOLE
+
+---------------------------------------------------------------------------------------------------------------------
+Systems Technologist from the ITM University Institution, from the Faculty of Engineering.
+During my university stage I have trained as a Systems Developer and Technologist,
+with training in application programming in the C# language implementing CLEAN ARCHITECTURE,
+my recent studies have allowed me to acquire skills in web development with Angular complemented with Boostrap,
+I have done everything worked with methodologies such as KANBAN; 
+I am very passionate about programming and which has a great impact in all areas and in our lives,
+it can mark a before and after in the current companies in the market.
+My goal is to develop my professional career as part of a company that allows me to apply everything
+I have learned and continue to grow both personally and professionally to achieve the best possible results.
+If you want to know more about me, 
+you can connect with me through LinkedIn, send me an email or we can even have a coffee.
+---------------------------------------------------------------------------------------------------------------------
+
 class Main:
   List<Programmer> Me = Programmer.Showinfo();
   foreach(Programmer Myinfo: Me){
@@ -19,31 +29,19 @@ class Main:
 
 ```
 ---
-
 ### Technologies
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-SQL%20Server-0072C6?style=flat&logo=microsoft-sql-server&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-<img src="http://img.shields.io/badge/-SqlServer-style=flat&logo=Sql&logoColor=white"> 
-
- <br>
- -----
-  
- 🔭 I’m planning is to be Full-Stack and to get Dream work** 😃
-
- 🌱 I’m currently learning<img src="https://skills.thijs.gg/icons?i=spring,ts,angular,maven&theme=light" width="150">
- 
- 
- :books: I want to learn <img src="https://skills.thijs.gg/icons?i=react,linux,elixir,docker,flutter,go&theme=light" width="200">
- ---
+<br>
+---
+  :books:I’m currently learning  <img src="https://skills.thijs.gg/icons?i=linux,docker, go&theme=light" width="100">
+---
+ 🔭 I plan to be a great developer 😃
+---
 ### You can find me in the web 🌍
 <a href="https://www.linkedin.com/in/estevan-tangarife-correa/">
   <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
