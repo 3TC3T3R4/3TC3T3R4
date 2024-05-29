@@ -14,7 +14,7 @@
  🔭 I plan to be a great developer 😃
 ---
 ### You can find me in the web 🌍
-<a href="https://www.linkedin.com/in/estevan-tangarife-correa/">
+
   <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <br>
