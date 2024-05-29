@@ -15,9 +15,6 @@
 ---
 ### You can find me in the web 🌍
 
-<src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
-<br>
 
  💼 ¿Any work?  [E-mail](mailto:teban_1928@hotmail.com) 📧
 
