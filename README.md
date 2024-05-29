@@ -15,7 +15,7 @@
 ---
 ### You can find me in the web 🌍
 
-  <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+<src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <br>
 
