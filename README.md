@@ -72,6 +72,20 @@ I build with AI in the loop — not to skip the thinking, but to move faster thr
 
 <br>
 
+<br>
+
+## ◆ Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3TC3T3R4/3TC3T3R4/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3TC3T3R4/3TC3T3R4/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/3TC3T3R4/3TC3T3R4/output/snake.svg" />
+</picture>
+
+</div>
+
 ## ◆ Let's Talk
 
 <div align="center">
